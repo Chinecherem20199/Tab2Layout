@@ -3,5 +3,5 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment1">Chat</string>
     <string name="hello_blank_fragment2">Call</string>
-    <string name="hello_blank_fragment3">Message</string>
+    <string name="hello_blank_fragment3">Star</string>
 </resources>
